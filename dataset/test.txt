@@ -1,0 +1,10 @@
+# A small test case for PRBSketch
+# A few unique edges
+10	20
+30	40
+50	60
+# The repeating edge (10, 20) appears again
+10	20
+70	80
+10	20
+90	100
